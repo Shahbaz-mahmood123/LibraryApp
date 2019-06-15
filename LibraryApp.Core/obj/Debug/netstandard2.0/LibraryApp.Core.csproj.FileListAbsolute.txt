@@ -1,0 +1,9 @@
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\bin\Debug\netstandard2.0\LibraryApp.Core.deps.json
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\bin\Debug\netstandard2.0\LibraryApp.Core.dll
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\bin\Debug\netstandard2.0\LibraryApp.Core.pdb
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\obj\Debug\netstandard2.0\LibraryApp.Core.csprojAssemblyReference.cache
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\obj\Debug\netstandard2.0\LibraryApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\obj\Debug\netstandard2.0\LibraryApp.Core.AssemblyInfoInputs.cache
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\obj\Debug\netstandard2.0\LibraryApp.Core.AssemblyInfo.cs
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\obj\Debug\netstandard2.0\LibraryApp.Core.dll
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Core\obj\Debug\netstandard2.0\LibraryApp.Core.pdb
