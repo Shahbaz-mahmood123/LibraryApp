@@ -26,6 +26,12 @@
             <td> @book.Name</td>
             <td>@book.Author</td>
             <td>@book.BoodID</td>
+            <td>
+                <a class="btn btn-lg"
+                   asp-page="./Detail" asp-route-bookId="@book.BoodID">
+                    <i class="glyphicon glyphicon-zoom-in"></i>
+                </a>
+            </td>
             
         </tr>
 

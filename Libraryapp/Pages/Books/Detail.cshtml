@@ -1,0 +1,21 @@
+﻿@page "{bookId:int}"
+
+@model Libraryapp.Pages.Books.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>Detail</h1>
+
+<h2>@Model.Book.Name </h2>
+
+<div>
+    Author: @Model.Book.Author
+</div>
+
+<div>
+   Id: @Model.Book.BoodID
+</div>
+
+<a asp-page="./List"class="btn btn-default">All books</a>
+

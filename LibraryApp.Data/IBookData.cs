@@ -10,7 +10,7 @@ using System.Linq;
     {
         IEnumerable<Book> GetBookByName(string name);
 
-
+        Book GetById(int id);
     }
 
     public class InMemoryBookData : IBookData
@@ -26,6 +26,12 @@ using System.Linq;
                     new Book {BoodID = 2, Name = "Book2", Author ="Author2"},
                     new Book {BoodID = 3, Name = "Book3", Author ="Author3"}
                 };
+
+        }
+
+        public Book GetById(int id)
+        {
+            return book.SingleOrDefault(b => b.BoodID == id);
 
         }
         public IEnumerable<Book> GetBookByName(string name = null)
