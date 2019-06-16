@@ -3,10 +3,21 @@
 @{
 }
 
-
-
-
 <h1> Books</h1>
+<form  method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control"  asp-for="BookSearch"/>
+            <span class="input-grou-btn">
+                <button class="btn bth-default">
+                    <i class="glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+
 
 <table class="table">
     @foreach(var book in Model.Books)

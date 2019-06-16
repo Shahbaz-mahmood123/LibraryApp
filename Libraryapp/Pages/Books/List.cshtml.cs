@@ -19,15 +19,19 @@ namespace Libraryapp.Pages.Shared
         public  String Message{ get; set; }
         public IEnumerable<Book> Books { get; set; }
 
+        [BindProperty(SupportsGet =true)]
+        public string BookSearch { get; set; }
+
         public BooksModel(IConfiguration config, IBookData bookData)
         {
             this.config = config;
             this.bookData = bookData;
         }
-        public void OnGet()
+        public void OnGet( )
         {
+            
             Message = "Hello World";
-            Books = bookData.GetAll();
+            Books = bookData.GetBookByName( BookSearch);
         }
     }
 }

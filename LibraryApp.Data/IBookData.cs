@@ -8,7 +8,7 @@ using System.Linq;
 {
     public interface IBookData
     {
-        IEnumerable<Book> GetAll();
+        IEnumerable<Book> GetBookByName(string name);
 
 
     }
@@ -28,9 +28,10 @@ using System.Linq;
                 };
 
         }
-        public IEnumerable<Book> GetAll()
+        public IEnumerable<Book> GetBookByName(string name = null)
         {
             return from b in book
+                   where string.IsNullOrEmpty(name) || b.Name.StartsWith(name)
                    orderby b.Name
                    select b;
 
