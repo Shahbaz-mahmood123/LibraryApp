@@ -1,0 +1,29 @@
+﻿@page "{bookId:int}"
+@model Libraryapp.Pages.Books.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editing @Model.Book.Name</h1>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Book.BoodID" />
+    <div class="form-group">
+        <label asp-for="Book.Name"></label>
+        <input asp-for="Book.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Book.Author"></label>
+        <input asp-for="Book.Author" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Book.Genre"></label>
+        <select class="form-control"asp-for="Book.Genre" 
+                asp-items="Model.Genres">
+            
+
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

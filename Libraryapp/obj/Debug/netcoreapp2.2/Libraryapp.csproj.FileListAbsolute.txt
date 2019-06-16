@@ -35,3 +35,4 @@ C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\List.g.cshtml.cs
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\Detail.g.cshtml.cs
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\NotFound.g.cshtml.cs
+C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\Edit.g.cshtml.cs

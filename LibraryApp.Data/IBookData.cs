@@ -22,9 +22,9 @@ using System.Linq;
         {
             book = new List<Book>()
                 {
-                    new Book {BoodID = 1, Name = "Book1", Author ="Author1"},
-                    new Book {BoodID = 2, Name = "Book2", Author ="Author2"},
-                    new Book {BoodID = 3, Name = "Book3", Author ="Author3"}
+                    new Book {BoodID = 1, Name = "Book1", Author ="Author1", Genre = BookGenre.Action},
+                    new Book {BoodID = 2, Name = "Book2", Author ="Author2", Genre = BookGenre.SciFi},
+                    new Book {BoodID = 3, Name = "Book3", Author ="Author3", Genre= BookGenre.Fantasy}
                 };
 
         }

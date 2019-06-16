@@ -23,12 +23,18 @@
     @foreach(var book in Model.Books)
     {
         <tr>
-            <td> @book.Name</td>
+            <td>@book.Name</td>
             <td>@book.Author</td>
             <td>@book.BoodID</td>
+            <td>@book.Genre</td>
+
             <td>
-                <a class="btn btn-lg"
+                <a class="btn btn-dark"
                    asp-page="./Detail" asp-route-bookId="@book.BoodID">
+                    <i class="glyphicon glyphicon-zoom-in"></i>
+                </a>
+                <a class="btn btn-outline-dark"
+                   asp-page="./Edit" asp-route-bookId="@book.BoodID">
                     <i class="glyphicon glyphicon-zoom-in"></i>
                 </a>
             </td>
