@@ -36,3 +36,41 @@ C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\Detail.g.cshtml.cs
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\NotFound.g.cshtml.cs
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\Edit.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.csprojAssemblyReference.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.csproj.CoreCompileInputs.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.RazorAssemblyInfo.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.RazorAssemblyInfo.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.AssemblyInfoInputs.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.AssemblyInfo.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\Libraryapp.deps.json
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\Libraryapp.runtimeconfig.json
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\Libraryapp.runtimeconfig.dev.json
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\Libraryapp.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\Libraryapp.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\Libraryapp.Views.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\Libraryapp.Views.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\LibraryApp.Core.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\LibraryApp.Data.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\LibraryApp.Data.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\bin\Debug\netcoreapp2.2\LibraryApp.Core.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.TagHelpers.input.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.TagHelpers.output.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.RazorCoreGenerate.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\Detail.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\Edit.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\List.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Books\NotFound.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.RazorTargetAssemblyInfo.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.RazorTargetAssemblyInfo.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.Views.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\Libraryapp\obj\Debug\netcoreapp2.2\Libraryapp.csproj.CopyComplete

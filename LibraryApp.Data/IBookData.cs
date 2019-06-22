@@ -11,6 +11,9 @@ using System.Linq;
         IEnumerable<Book> GetBookByName(string name);
 
         Book GetById(int id);
+        Book UpdateBook(Book udpdatedBook);
+        int Commit();
+
     }
 
     public class InMemoryBookData : IBookData
@@ -22,17 +25,35 @@ using System.Linq;
         {
             book = new List<Book>()
                 {
-                    new Book {BoodID = 1, Name = "Book1", Author ="Author1", Genre = BookGenre.Action},
-                    new Book {BoodID = 2, Name = "Book2", Author ="Author2", Genre = BookGenre.SciFi},
-                    new Book {BoodID = 3, Name = "Book3", Author ="Author3", Genre= BookGenre.Fantasy}
+                    new Book {BookID = 1, Name = "Book1", Author ="Author1", Genre = BookGenre.Action},
+                    new Book {BookID = 2, Name = "Book2", Author ="Author2", Genre = BookGenre.SciFi},
+                    new Book {BookID = 3, Name = "Book3", Author ="Author3", Genre= BookGenre.Fantasy}
                 };
 
         }
 
         public Book GetById(int id)
         {
-            return book.SingleOrDefault(b => b.BoodID == id);
+            return book.SingleOrDefault(b => b.BookID == id);
 
+        }
+        public Book UpdateBook(Book updatedBook)
+        {
+            var books = book.SingleOrDefault(b => b.BookID == updatedBook.BookID);
+            if (books != null)
+            {
+                books.Name= updatedBook.Name;
+                books.Author = updatedBook.Author;
+                books.BookID = updatedBook.BookID;
+                books.Genre = updatedBook.Genre;
+            }
+
+            return books;
+        }
+
+        public int Commit()
+        {
+            return 0;
         }
         public IEnumerable<Book> GetBookByName(string name = null)
         {

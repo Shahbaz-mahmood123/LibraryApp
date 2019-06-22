@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj": {}
+    "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj": {
+    "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
         "projectName": "LibraryApp.Core",
-        "projectPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
+        "projectPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
         "packagesPath": "C:\\Users\\shahbaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj": {
+    "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj",
         "projectName": "LibraryApp.Data",
-        "projectPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj",
+        "projectPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj",
         "packagesPath": "C:\\Users\\shahbaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj": {
-                "projectPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj"
+              "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj": {
+                "projectPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj"
               }
             }
           }
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj": {
+    "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj",
+        "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj",
         "projectName": "Libraryapp",
-        "projectPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj",
+        "projectPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\Libraryapp\\Libraryapp.csproj",
         "packagesPath": "C:\\Users\\shahbaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\Libraryapp\\obj\\",
+        "outputPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\Libraryapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj": {
-                "projectPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj"
+              "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj": {
+                "projectPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Data\\LibraryApp.Data.csproj"
               }
             }
           }

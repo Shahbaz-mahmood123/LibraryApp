@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
       "projectName": "LibraryApp.Core",
-      "projectPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
+      "projectPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\LibraryApp.Core.csproj",
       "packagesPath": "C:\\Users\\shahbaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shahbaz\\Desktop\\LibrarySite\\Libraryapp\\LibraryApp.Core\\obj\\",
+      "outputPath": "C:\\Users\\shahbaz\\Desktop\\side projects\\LibrarySite\\Libraryapp\\LibraryApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

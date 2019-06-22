@@ -15,6 +15,7 @@ namespace Libraryapp.Pages.Books
         private readonly IBookData bookData;
         private readonly IHtmlHelper htmlHelper;
 
+        [BindProperty]
         public Book Book { get; set; }
         public IEnumerable<SelectListItem> Genres { get; set; }
 
@@ -34,6 +35,19 @@ namespace Libraryapp.Pages.Books
                 return RedirectToPage("./NotFound");
             }
 
+            return Page();
+        }
+
+        public IActionResult OnPost()
+        {
+           if (ModelState.IsValid)
+            {
+                bookData.UpdateBook(Book);
+               
+                bookData.Commit();
+                return RedirectToPage("./Detail", new { bookId = Book.BookID });
+            }
+            Genres = htmlHelper.GetEnumSelectList<BookGenre>();
             return Page();
         }
     }

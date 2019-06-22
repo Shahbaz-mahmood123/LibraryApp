@@ -10,3 +10,17 @@ C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netsta
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.csproj.CopyComplete
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.dll
 C:\Users\shahbaz\Desktop\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.csprojAssemblyReference.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.AssemblyInfoInputs.cache
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.AssemblyInfo.cs
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\LibraryApp.Data.deps.json
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\LibraryApp.Data.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\LibraryApp.Data.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\LibraryApp.Core.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\LibraryApp.Core.pdb
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.csproj.CopyComplete
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
