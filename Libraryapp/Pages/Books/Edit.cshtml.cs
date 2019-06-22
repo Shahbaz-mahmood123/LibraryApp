@@ -25,10 +25,17 @@ namespace Libraryapp.Pages.Books
             this.bookData = bookData;
             this.htmlHelper = htmlHelper;
         }
-        public IActionResult OnGet(int bookId)
+        public IActionResult OnGet(int? bookId)
         {
             Genres = htmlHelper.GetEnumSelectList<BookGenre>();
-            Book = bookData.GetById(bookId);
+            if (bookId.HasValue)
+            {
+                Book = bookData.GetById(bookId.Value);
+            }
+           else
+            {
+                Book = new Book();
+            }
 
             if (Book == null)
             {
@@ -40,15 +47,26 @@ namespace Libraryapp.Pages.Books
 
         public IActionResult OnPost()
         {
-           if (ModelState.IsValid)
+           if (!ModelState.IsValid)
             {
-                bookData.UpdateBook(Book);
-               
-                bookData.Commit();
-                return RedirectToPage("./Detail", new { bookId = Book.BookID });
+                Genres = htmlHelper.GetEnumSelectList<BookGenre>();
+                return Page();
+                
             }
-            Genres = htmlHelper.GetEnumSelectList<BookGenre>();
-            return Page();
+           if (Book.BookID > 0)
+            {
+
+                bookData.UpdateBook(Book);
+
+            }
+           else
+            {
+                bookData.AddBook(Book);
+            }
+
+            bookData.Commit();
+
+            return RedirectToPage("./Detail", new { bookId = Book.BookID });
         }
     }
 }

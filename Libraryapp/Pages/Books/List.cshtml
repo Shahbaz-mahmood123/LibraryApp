@@ -10,7 +10,7 @@
             <input type="search" class="form-control"  asp-for="BookSearch"/>
             <span class="input-grou-btn">
                 <button class="btn bth-default">
-                    <i class="glyphicon glyphicon-search"></i>
+                    <!--<i class="glyphicon glyphicon-search"></i>-->
                 </button>
             </span>
         </div>
@@ -31,11 +31,9 @@
             <td>
                 <a class="btn btn-dark"
                    asp-page="./Detail" asp-route-bookId="@book.BookID">
-                    <i class="glyphicon glyphicon-zoom-in"></i>
                 </a>
                 <a class="btn btn-outline-dark"
                    asp-page="./Edit" asp-route-bookId="@book.BookID">
-                    <i class="glyphicon glyphicon-zoom-in"></i>
                 </a>
             </td>
             
@@ -44,3 +42,5 @@
     }
 
 </table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Add New</a>

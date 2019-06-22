@@ -12,6 +12,7 @@ using System.Linq;
 
         Book GetById(int id);
         Book UpdateBook(Book udpdatedBook);
+        Book AddBook(Book newBook);
         int Commit();
 
     }
@@ -36,6 +37,13 @@ using System.Linq;
         {
             return book.SingleOrDefault(b => b.BookID == id);
 
+        }
+
+        public Book AddBook(Book newBook)
+        {
+            book.Add(newBook);
+            newBook.BookID = book.Max(b => b.BookID) +1;
+            return newBook;
         }
         public Book UpdateBook(Book updatedBook)
         {
