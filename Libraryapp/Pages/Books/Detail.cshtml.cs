@@ -13,6 +13,8 @@ namespace Libraryapp.Pages.Books
     {
         public Book Book { get; set; }
         public IBookData BookData { get; }
+        [TempData]
+        public string Message { get; set; }
 
         public DetailModel(IBookData bookData)
         {

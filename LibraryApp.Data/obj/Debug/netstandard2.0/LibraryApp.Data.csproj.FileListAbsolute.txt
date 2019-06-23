@@ -22,5 +22,3 @@ C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bi
 C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\LibraryApp.Core.dll
 C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\LibraryApp.Core.pdb
 C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\obj\Debug\netstandard2.0\LibraryApp.Data.csproj.CopyComplete
-C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
-C:\Users\shahbaz\Desktop\side projects\LibrarySite\Libraryapp\LibraryApp.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml

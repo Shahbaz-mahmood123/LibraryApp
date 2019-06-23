@@ -64,6 +64,7 @@ namespace Libraryapp.Pages.Books
                 bookData.AddBook(Book);
             }
 
+            TempData["Message"] = "Book Saved";
             bookData.Commit();
 
             return RedirectToPage("./Detail", new { bookId = Book.BookID });
